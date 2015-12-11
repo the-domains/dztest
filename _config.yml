@@ -2,6 +2,7 @@ name: dztest
 favicon: null
 layout_spectrum: 0.7719564565923065
 typography_spectrum: 0.7858683383092284
+title: dztest
 cta:
   domain: null
   bucket: null
