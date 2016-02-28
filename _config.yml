@@ -1,7 +1,7 @@
 name: dztest
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.25544
+layout_spectrum: 0.9872
+typography_spectrum: 0.48379
 title: dztest
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d3d7e1'
-    - '#b4c2d5'
-    - '#88a9c5'
-    - '#6887a0'
-    - '#475e70'
+    - '#52565f'
+    - '#52aac9'
+    - '#ffffff'
+    - '#54d2fa'
+    - '#cbcccf'
   brandStrength: 0.5
-  lightness: 1
-  saturation: 0.4306232032831758
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
